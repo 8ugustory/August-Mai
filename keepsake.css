@@ -354,13 +354,11 @@ nav a:hover, nav a:focus {
 
 main h2{
   text-align: center;
-  padding-bottom: 3rem;
   padding-top: 0;
 }
 
 main p {
   margin-left: 0;
-  padding-bottom: 3rem;
   padding-top: 3rem;
   text-align: center;
 }
