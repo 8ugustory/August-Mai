@@ -159,7 +159,7 @@ footer{
 .content {
   color: white;
   font-family: Averia;
-  font-size: max(.5em, .7cqi + 1.5cqi);
+  font-size: max(1.5em, .7cqi + 1.5cqi);
   position: absolute;
   top: 50%;
   left: 50%;
